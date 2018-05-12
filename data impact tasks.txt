@@ -1,0 +1,7 @@
+FROM THE DATA SORCE DO THE FOLLOWING TASKS
+
+1.load the data in pandas and check wether there is missing data or no.If there is missing data use statistical technique to handle them
+2.what is the first ten diseases with large number of incidence?
+3.what is the first five region with large number of incidence?
+4.which region have lowest incidence?
+5.what is the maximu and min incidence for different region?
